@@ -1,0 +1,19 @@
+#main {
+    display: flex;
+    flex-direction: row;
+    height: 600px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.option {
+    background-color: #CCC;
+    width: 250px;
+    height: 250px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 25px;
+}
